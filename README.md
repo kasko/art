@@ -11,3 +11,27 @@ The Kasko logos are important assets of Kaskos’s business, and they are protec
 - Kasko may provide you with style or usage guidelines from time to time, including such things as size, color or placement. Unless we agree otherwise, you will use the Kasko logos only in a way that is consistent with those guidelines. You will update your use of the Kasko logos to conform to changes in the guidelines within a reasonable time after we provide you notice of the change.
 - You may not use the Kasko logos or the word “Kasko”, any confusingly similar name or trademark, in the name of your product or service, or in your domain name, without our prior written approval.
 - You will not display, copy, modify or transmit the Kasko logos in any way except as described in this Agreement or otherwise agreed in writing by Kasko, Ltd.
+
+### Logos
+
+##### Kasko Square Logo
+<img src="https://raw.githubusercontent.com/kasko/art/master/logo-square-transparent.png" height="100">
+
+[[AI](https://github.com/kasko/art/blob/master/logo-square.ai?raw=true)]
+[[SVG](https://raw.githubusercontent.com/kasko/art/master/logo-square.svg)]
+[[PNG (White)](https://raw.githubusercontent.com/kasko/art/master/logo-square-white.png)]
+[[PNG (Transparent)](https://raw.githubusercontent.com/kasko/art/master/logo-square-transparent.png)]
+
+##### Kasko Logo With Text
+<img src="https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-white-borders.png" height="100" border="1">
+
+[[SVG (Light text)](https://github.com/kasko/art/blob/master/logo-text-light.svg)]
+[[SVG (Dark text)](https://github.com/kasko/art/blob/master/logo-text-dark.svg)]
+
+##### Kasko Logo With Text and border
+<img src="https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-white-borders.png" height="100" border="1">
+
+[[AI (Dark text)](https://github.com/kasko/art/blob/master/logo-text-dark.ai?raw=true)]
+[[AI (Light text)](https://github.com/kasko/art/blob/master/logo-text-light.ai?raw=true)]
+[[SVG (Dark text)](https://github.com/kasko/art/blob/master/logo-text-dark.svg?raw=true)]
+[[SVG (Light text)](https://github.com/kasko/art/blob/master/logo-text-light.svg?raw=true)]
