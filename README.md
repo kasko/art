@@ -28,9 +28,9 @@ The Kasko logos are important assets of Kaskos’s business, and they are protec
 [[SVG (Light text)](https://github.com/kasko/art/blob/master/logo-text-light.svg)]
 [[SVG (Dark text)](https://github.com/kasko/art/blob/master/logo-text-dark.svg)]
 
-[PNG (White Text Transparent Background)](https://raw.githubusercontent.com/kasko/art/master/logo-text-light-transparent.png)
-[PNG (Dark Text Transparent Background)](https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-transparent.png)
-[PNG (Dark Text White Background)](https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-white.png)
+[[PNG (White Text Transparent Background)]](https://raw.githubusercontent.com/kasko/art/master/logo-text-light-transparent.png)
+[[PNG (Dark Text Transparent Background)]](https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-transparent.png)
+[[PNG (Dark Text White Background)]](https://raw.githubusercontent.com/kasko/art/master/logo-text-dark-white.png)
 
 
 ##### Kasko Logo With Text and border
