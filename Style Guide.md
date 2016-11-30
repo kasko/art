@@ -5,4 +5,4 @@ Kasko Style Guide
 
 - top left: `#d6a429`
 - right: `#e2ab25`
-- bottom left: `#ebbc2a`
+- bottom left: `#ebbb2a`
